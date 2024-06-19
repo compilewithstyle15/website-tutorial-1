@@ -1,0 +1,29 @@
+.footer {
+    display: flex;
+    padding: 8px;
+}
+
+.footer-details {
+    width: 60%;
+}
+
+.footer-details-title {
+    margin: 0px;
+    margin-bottom: 2px;
+}
+
+.footer-links {
+    width: 40%;
+    display: flex;
+    gap: 8px;
+    flex-direction: column;
+}
+
+.footer-link {
+    text-decoration: none;
+    color: black;
+}
+
+.footer-link:hover {
+    color: silver;
+}

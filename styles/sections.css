@@ -1,0 +1,14 @@
+.welcome-section {
+    text-align: center;
+    padding: 8px;
+}
+
+.double-section {
+    display: flex;
+    padding: 8px;
+}
+
+.double-section-part {
+    width: 50%;
+    text-align: center;
+}
